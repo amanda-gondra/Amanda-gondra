@@ -46,5 +46,7 @@ Ferramentas e Ambiente
 
 📫 CONTATO
 LinkedIn: www.linkedin.com/in/amanda-coelho-335863317
+
 GitHub: github.com/amanda-gondra
+
 EmaiL: amandagondra3@gmail.com
