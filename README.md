@@ -17,10 +17,12 @@ Tenho como objetivo evoluir na construção de sistemas inteligentes, automaçõ
 
 
 ▪️ Competências Técnicas
+
 Backend
 - Python (principal linguagem)
 - Node.js (secundário, em desenvolvimento)
 - APIs REST (estruturação e boas práticas iniciais)
+
 
 Banco de Dados
 - SQL
@@ -28,16 +30,19 @@ Banco de Dados
 - PostgreSQL (aprendizado aplicado)
 - MongoDB (aprendizado inicial)
 
+
 Frontend Essencial
 - HTML
 - CSS
 - Tailwind
 - React (iniciante)
 
+
 Ferramentas e Ambiente
 - Git & GitHub
 - Linux (Fedora)
 - VS Code
+
 
 📫 CONTATO
 LinkedIn: www.linkedin.com/in/amanda-coelho-335863317
