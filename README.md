@@ -1,4 +1,5 @@
-⚫️ Amanda Gondra
+⚫️ AMANDA GONDRA
+
 Backend Developer • Python & Node • IA Aplicada • Engenharia e Modelagem de Dados
 
 Sou estudante do 4º período de Ciência da Computação com foco em desenvolvimento backend, processamento de dados e criação de sistemas inteligentes.
@@ -13,6 +14,7 @@ Minha atuação envolve:
 - Desenvolvimento de sistemas voltados a tarefas reais, tanto urbanos quanto rurais
 
 Tenho como objetivo evoluir na construção de sistemas inteligentes, automações, pipelines de dados e arquiteturas modernas, utilizando Python ou tecnologias correlatas conforme as demandas dos projetos.
+
 
 ▪️ Competências Técnicas
 Backend
