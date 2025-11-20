@@ -40,14 +40,15 @@ Tenho como objetivo evoluir na construção de sistemas inteligentes, automaçõ
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+## 🌐 Contato & Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amanda-coelho-335863317)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](github.com/amanda-gondra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amandagondra3@gmail.com)
 
 
 
 
-📫 CONTATO
 
-LinkedIn: www.linkedin.com/in/amanda-coelho-335863317
 
-GitHub: github.com/amanda-gondra
 
-Email: amandagondra3@gmail.com
