@@ -2,10 +2,7 @@
   <img src="assets/header.svg" width="100%" alt="Amanda Gondra — Ciência da Computação · Backend · Dados · Inteligência Artificial" />
 </div>
 
-<div align="center">
-
-
-![Localização](https://img.shields.io/badge/Teresina,%20Piau%C3%AD%20--%20Brasil-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+<br/>
 
 </div>
 
