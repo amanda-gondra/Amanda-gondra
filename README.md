@@ -2,8 +2,6 @@
   <img src="assets/header.svg" width="100%" alt="Amanda Gondra — Ciência da Computação · Backend · Dados · Inteligência Artificial" />
 </div>
 
-<br/>
-
 </div>
 
 ## Sobre mim
