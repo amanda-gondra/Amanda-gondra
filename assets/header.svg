@@ -1,1 +1,22 @@
-
+<svg width="780" height="248" viewBox="0 0 780 248" xmlns="http://www.w3.org/2000/svg" fill="none" font-family="'Segoe UI',Ubuntu,system-ui,sans-serif">
+  <defs>
+    <filter id="gl" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="gl2" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+    <linearGradient id="htag" x1="90.0" y1="0" x2="690.0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A855F7"/><stop offset="0.55" stop-color="#A855F7"/><stop offset="0.72" stop-color="#7BE0A0"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+  </defs>
+  <g text-anchor="middle" font-weight="800">
+    <text x="390.0" y="54" font-size="42" fill="#7C3AED" filter="url(#gl)">&lt;/&gt;<animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/></text>
+    <text x="390.0" y="54" font-size="42" fill="#B58CFF">&lt;/&gt;</text>
+  </g>
+  <g text-anchor="middle" font-style="italic" font-weight="800">
+    <text x="390.0" y="142" font-size="74" fill="#B58CFF" filter="url(#gl2)" opacity="0.75">Amanda Gondra<animate attributeName="opacity" values="0.35;0.9;0.35" dur="3s" repeatCount="indefinite"/></text>
+    <text x="390.0" y="142" font-size="74" fill="#FFFFFF">Amanda Gondra</text>
+  </g>
+  <g stroke="#7C3AED" stroke-width="1.6">
+    <line x1="95" y1="181" x2="195" y2="181" stroke-opacity="0.6"/><circle cx="95" cy="181" r="3" fill="#7C3AED" stroke="none"/>
+    <line x1="585" y1="181" x2="685" y2="181" stroke-opacity="0.6"/><circle cx="685" cy="181" r="3" fill="#7C3AED" stroke="none"/>
+  </g>
+  <text x="390.0" y="187" text-anchor="middle" font-size="18" font-weight="600" letter-spacing="6" fill="#E4DBFA">CIÊNCIA DA COMPUTAÇÃO</text>
+  <text x="390.0" y="223" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="url(#htag)">• BACKEND  • DADOS  • INTELIGÊNCIA ARTIFICIAL</text>
+</svg>
