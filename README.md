@@ -27,4 +27,6 @@ Estudante de Ciência da Computação na UNINASSAU, em Teresina-PI.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/amandagondra) · [Hugging Face](https://huggingface.co/AmandaGondra)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amandagondra"><img src="assets/contact/linkedin.svg" height="36" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://huggingface.co/AmandaGondra"><img src="assets/contact/huggingface.svg" height="36" alt="Hugging Face" title="Hugging Face" /></a>
+</p>
