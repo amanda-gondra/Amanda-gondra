@@ -23,14 +23,14 @@ Estudante de Ciência da Computação na UNINASSAU, em Teresina-PI.
 <tr>
 <td valign="top" align="center" width="400">
 
-**IA e dados**
+<b>IA e dados</b>
 
 <img src="assets/python.svg" width="60" alt="Python" title="Python" /> <img src="assets/pandas.svg" width="60" alt="Pandas" title="Pandas" /> <img src="assets/machine-learning.svg" width="60" alt="Machine Learning" title="Machine Learning" /> <img src="assets/sql.svg" width="60" alt="SQL" title="SQL" /> <img src="assets/postgresql.svg" width="60" alt="PostgreSQL" title="PostgreSQL" /> <img src="assets/huggingface.svg" width="60" alt="Hugging Face" title="Hugging Face" />
 
 </td>
 <td valign="top" align="center" width="400">
 
-**Back-end**
+<b>Back-end</b>
 
 <img src="assets/fastapi.svg" width="60" alt="FastAPI" title="FastAPI" /> <img src="assets/nodejs.svg" width="60" alt="Node.js" title="Node.js" /> <img src="assets/fastify.svg" width="60" alt="Fastify" title="Fastify" /> <img src="assets/prisma.svg" width="60" alt="Prisma" title="Prisma" />
 
@@ -39,14 +39,14 @@ Estudante de Ciência da Computação na UNINASSAU, em Teresina-PI.
 <tr>
 <td valign="top" align="center" width="400">
 
-**Front-end**
+<b>Front-end</b>
 
 <img src="assets/typescript.svg" width="60" alt="TypeScript" title="TypeScript" /> <img src="assets/react.svg" width="60" alt="React" title="React" /> <img src="assets/nextjs.svg" width="60" alt="Next.js" title="Next.js" /> <img src="assets/tailwind.svg" width="60" alt="Tailwind CSS" title="Tailwind CSS" />
 
 </td>
 <td valign="top" align="center" width="400">
 
-**Engenharia**
+<b>Engenharia</b>
 
 <img src="assets/git.svg" width="60" alt="Git" title="Git" /> <img src="assets/github-actions.svg" width="60" alt="GitHub Actions" title="GitHub Actions" /> <img src="assets/docker.svg" width="60" alt="Docker" title="Docker" />
 
