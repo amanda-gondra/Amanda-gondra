@@ -13,7 +13,7 @@ Estudante de Ciência da Computação na UNINASSAU, em Teresina-PI.
 | Projeto | O que é | Links |
 | --- | --- | --- |
 | **NCM Classifier** | Sugere a classificação fiscal NCM de um produto a partir da descrição comercial, com confiança calibrada e aviso quando o caso deve ir para revisão manual. Python, scikit-learn, FastAPI e Next.js. | [Demonstração](https://amanda-gondra.github.io/ncm-classifier/) · [Código](https://github.com/amanda-gondra/ncm-classifier) · [Modelo](https://huggingface.co/AmandaGondra/ncm-classifier) |
-| **Análise de Crédito Rural** | Pipeline com os dados oficiais de crédito rural do Banco Central: download com verificação de integridade, validação e carga em PostgreSQL com reconciliação dos totais em SQL. | [Código](https://github.com/amanda-gondra/analise-credito-rural) |
+| **Análise de Crédito Rural** | Painel do crédito rural no Brasil com os dados oficiais do Banco Central, de 2013 a 2025: mapa por estado, evolução, finalidades e MATOPIBA, valores corrigidos pelo IPCA e um assistente de IA que responde perguntas com os números do banco. Python, PostgreSQL, FastAPI e React. | [Site](https://analise-credito-rural.pages.dev) · [API](https://analise-credito-rural-api.onrender.com/docs) · [Código](https://github.com/amanda-gondra/analise-credito-rural) |
 | **Rebanho** | Sistema web full-stack para gestão de gado de corte: animais, pesagens, ganho de peso, lotes e manejo sanitário. Node.js, Fastify, Prisma, PostgreSQL e React. | [Código](https://github.com/amanda-gondra/controle-rebanho) |
 
 ## Ferramentas
