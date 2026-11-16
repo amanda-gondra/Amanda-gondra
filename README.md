@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Amanda Gondra — Ciência da Computação · Dados · Machine Learning · Engenharia de IA" />
+  <img src="assets/header.svg" width="100%" alt="Amanda Gondra — Dados, Machine Learning e Engenharia de IA · Ciência da Computação" />
 </div>
 
 ## Sobre
 
-Desenvolvo sistemas de dados e inteligência artificial, do tratamento dos dados até a aplicação em produção. Meu trabalho combina machine learning, engenharia de dados e desenvolvimento de APIs, com atenção a qualidade, testes e documentação.
+Desenvolvo sistemas de dados e inteligência artificial, do tratamento dos dados até a aplicação em produção. Meu trabalho combina machine learning, LLMs, engenharia de dados e desenvolvimento de APIs, com atenção a qualidade, testes, documentação e reprodutibilidade.
 
-Estudante de Ciência da Computação na UNINASSAU, em Teresina-PI.
+Estudante de Ciência da Computação na UNINASSAU, com conclusão prevista para 2027, em Teresina-PI.
 
 ## Projetos
 
-| Projeto | O que é | Links |
-| --- | --- | --- |
-| **NCM Classifier** | Sugere a classificação fiscal NCM de um produto a partir da descrição comercial, com confiança calibrada e aviso quando o caso deve ir para revisão manual. Python, scikit-learn, FastAPI e Next.js. | [Demonstração](https://amanda-gondra.github.io/ncm-classifier/) · [Código](https://github.com/amanda-gondra/ncm-classifier) · [Modelo](https://huggingface.co/AmandaGondra/ncm-classifier) |
-| **Análise de Crédito Rural** | Painel do crédito rural no Brasil com os dados oficiais do Banco Central, de 2013 a 2025: mapa por estado, evolução, finalidades e MATOPIBA, valores corrigidos pelo IPCA e um assistente de IA que responde perguntas com os números do banco. Python, PostgreSQL, FastAPI e React. | [Site](https://analise-credito-rural.pages.dev) · [API](https://analise-credito-rural-api.onrender.com/docs) · [Código](https://github.com/amanda-gondra/analise-credito-rural) |
-| **Rebanho** | Sistema web full-stack para gestão de gado de corte: animais, pesagens, ganho de peso, lotes e manejo sanitário. Node.js, Fastify, Prisma, PostgreSQL e React. | [Código](https://github.com/amanda-gondra/controle-rebanho) |
+| Projeto | O que é | Situação | Links |
+| --- | --- | --- | --- |
+| **Análise de Crédito Rural** | Painel do crédito rural no Brasil com os dados oficiais do Banco Central, de 2013 a 2025: mapa por estado, evolução, finalidades e MATOPIBA, valores corrigidos pelo IPCA e um assistente de IA que responde perguntas com os números do banco. Python, PostgreSQL, FastAPI, React e LLM. | No ar | [Site](https://analise-credito-rural.pages.dev) · [API](https://analise-credito-rural-api.onrender.com/docs) · [Código](https://github.com/amanda-gondra/analise-credito-rural) |
+| **NCM Classifier** | Sugere a classificação fiscal NCM de um produto a partir da descrição comercial, com confiança calibrada e aviso quando o caso deve ir para revisão manual. Python, scikit-learn, FastAPI e Next.js. | No ar | [Demonstração](https://amanda-gondra.github.io/ncm-classifier/) · [Código](https://github.com/amanda-gondra/ncm-classifier) · [Modelo](https://huggingface.co/AmandaGondra/ncm-classifier) |
+| **Detecção de Fraude em Pagamentos** | Modelo de detecção de fraude em transações com cartão: sinais de comportamento sem vazamento de dados futuros, LightGBM com validação cruzada temporal, decisão em três faixas por custo, explicações com SHAP e auditoria de viés. Python, LightGBM, scikit-learn e MLflow. | Em desenvolvimento | [Código](https://github.com/amanda-gondra/payment-fraud-detection) · [Análise exploratória](https://www.kaggle.com/code/amandagondra/payment-fraud-detection-eda-pt-br) |
+| **Rebanho** | Sistema web full-stack para gestão de gado de corte: animais, pesagens, ganho de peso, lotes e manejo sanitário. Node.js, Fastify, Prisma, PostgreSQL e React. | Em validação | [Código](https://github.com/amanda-gondra/controle-rebanho) |
 
 ## Ferramentas
 
@@ -25,8 +26,8 @@ Estudante de Ciência da Computação na UNINASSAU, em Teresina-PI.
   <img src="assets/stack/typescript.svg" width="44" alt="TypeScript" title="TypeScript" />&nbsp;<img src="assets/stack/nodejs.svg" width="44" alt="Node.js" title="Node.js" />&nbsp;<img src="assets/stack/fastify.svg" width="44" alt="Fastify" title="Fastify" />&nbsp;<img src="assets/stack/prisma.svg" width="44" alt="Prisma" title="Prisma" />&nbsp;<img src="assets/stack/react.svg" width="44" alt="React" title="React" />&nbsp;<img src="assets/stack/nextjs.svg" width="44" alt="Next.js" title="Next.js" />&nbsp;<img src="assets/stack/tailwind.svg" width="44" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;<img src="assets/stack/git.svg" width="44" alt="Git" title="Git" />
 </p>
 
+<p align="center">Também uso: PyTorch, LightGBM, MLflow, SHAP, Hugging Face Transformers, pytest e Playwright.</p>
+
 ## Contato
 
-<a href="https://www.linkedin.com/in/amandagondra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-<a href="https://huggingface.co/AmandaGondra"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" /></a>
-<a href="mailto:amandagondra3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+[LinkedIn](https://www.linkedin.com/in/amandagondra) · [Hugging Face](https://huggingface.co/AmandaGondra) · [Kaggle](https://www.kaggle.com/amandagondra) · [E-mail](mailto:amandagondra3@gmail.com)
